@@ -71,7 +71,6 @@ public class SellerDaoJDBC implements SellerDao {
 				throw new DbException("Unexpected error! No rows affected!");
 
 			}
-			;
 
 		}
 
